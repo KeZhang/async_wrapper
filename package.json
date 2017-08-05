@@ -1,0 +1,14 @@
+{
+  "name": "async_wrapper",
+  "version": "1.0.0",
+  "description": "wrap the node es7 async function for mocha/jasmine etc. test framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ke.zhang.cn@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.5.0"
+  }
+}
